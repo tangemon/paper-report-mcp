@@ -1,2 +1,2 @@
 # paper-report-mcp
-arxiv paper query &amp; download, translate, summarize to report MCP Server.
+MCP服务器，实现arxiv论文查询、下载、翻译、总结输出。
