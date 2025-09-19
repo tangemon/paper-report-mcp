@@ -1,0 +1,6 @@
+mcp>=1.2.0
+pydantic>=2.8.0
+arxiv>=2.1.0
+pymupdf4llm>=0.0.17
+pdf2zh>=1.9.10
+pymupdf>=1.26.4

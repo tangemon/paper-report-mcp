@@ -1,0 +1,15 @@
+{
+    "USE_MODELSCOPE": "0",
+    "PDF2ZH_LANG_FROM": "English",
+    "PDF2ZH_LANG_TO": "Simplified Chinese",
+    "NOTO_FONT_PATH": "/xx/paper-report-mcp/fonts/SourceHanSerifCN-Regular.ttf",
+    "translators": [
+        {
+            "name": "google",
+            "envs": {
+                "https_proxy": "",
+                "http_proxy": ""
+            }
+        }
+    ]
+}
